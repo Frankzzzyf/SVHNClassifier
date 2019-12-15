@@ -1,32 +1,9 @@
-# SVHNClassifier
+# e4040-2019Fall-Project
 
-A TensorFlow implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://arxiv.org/pdf/1312.6082.pdf) 
-
-
-## Graph
-
-![Graph](https://github.com/potterhsu/SVHNClassifier/blob/master/images/graph.png?raw=true)
+Comprehensive review and TensorFlow implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](http://arxiv.org/pdf/1312.6082.pdf) 
 
 
-## Results
-
-### Accuracy
-![Accuracy](https://github.com/potterhsu/SVHNClassifier/blob/master/images/accuracy.png?raw=true)
-
-> Accuracy 93.45% on test dataset after about 14 hours
-
-### Loss
-![Loss](https://github.com/potterhsu/SVHNClassifier/blob/master/images/loss.png?raw=true)
-
-### Samples
-
-| Training      | Test          |
-|:-------------:|:-------------:|
-| ![Train1](https://github.com/potterhsu/SVHNClassifier/blob/master/images/train1.png?raw=true) | ![Test1](https://github.com/potterhsu/SVHNClassifier/blob/master/images/test1.png?raw=true) |
-| ![Train2](https://github.com/potterhsu/SVHNClassifier/blob/master/images/train2.png?raw=true) | ![Test2](https://github.com/potterhsu/SVHNClassifier/blob/master/images/test2.png?raw=true) |
-
-### Inference of outside image
-
+### Dataset
 <img src="https://github.com/potterhsu/SVHNClassifier/blob/master/images/inference1.png?raw=true" width="250">
 <img src="https://github.com/potterhsu/SVHNClassifier/blob/master/images/inference2.png?raw=true" width="250">
 
